@@ -10,7 +10,7 @@ Currently, I am working as a Full-Stack Developer Intern in the United States wh
 
 ---
 
-# 🚀 Current Flagship Project
+#  Current Flagship Project
 
 ## SecureFlow Enterprise Platform
 
@@ -40,7 +40,7 @@ Spring Boot • PostgreSQL • AWS • Docker • JWT • Redis • Neo4j • RE
 
 ---
 
-# 💪 Featured Completed Project
+#  Featured Completed Project
 
 ## Gym Management System
 
@@ -65,7 +65,7 @@ React • Express.js • JavaScript • Database Systems
 
 ---
 
-# 🛠 Technical Expertise
+# Technical Expertise
 
 ### Programming Languages
 
@@ -118,7 +118,7 @@ React • Express.js • JavaScript • Database Systems
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
 ## Full-Stack Developer Intern
 
@@ -164,7 +164,7 @@ Master of Science in Information Systems
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 * Cloud Architecture
 * AWS Services
@@ -176,7 +176,7 @@ Master of Science in Information Systems
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 📧 Email: [vedhagiri209@gmail.com](mailto:vedhagiri209@gmail.com)
 
