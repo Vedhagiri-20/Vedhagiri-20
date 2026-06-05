@@ -76,3 +76,8 @@ https://vedha-gym-project.netlify.app/
 
 🔗 LinkedIn
 [www.linkedin.com/in/vedhagiri20](http://www.linkedin.com/in/vedhagiri20)
+
+
+## GitHub Stats
+
+![Vedhagiri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedhagiri-20&show_icons=true)
