@@ -2,7 +2,7 @@
 
 🎓 Master of Science in Information Systems at Virginia Commonwealth University (4.0 GPA)
 
-💼 Former Senior Software Engineer at Newgen Software Technologies
+Senior Software Engineer | Newgen Software Technologies (2022–2024)
 
 💻 Full-Stack Developer passionate about building scalable enterprise applications, modern web solutions, and secure information systems.
 
