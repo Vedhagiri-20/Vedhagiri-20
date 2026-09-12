@@ -24,15 +24,18 @@ What I enjoy most is turning business requirements into working systems — unde
 ## Career Journey
 
 ```text
-Application Engineer
-        ↓
-Senior Software Engineer
-        ↓
-M.S. Information Systems — VCU
-        ↓
-Full-Stack Developer Intern
-        ↓
+
 Full-Stack Engineering + Software Systems Architecture
+        ↑
+Full-Stack Developer Intern
+        ↑
+M.S. Information Systems — VCU
+        ↑
+Senior Software Engineer
+        ↑
+Application Engineer
+        ↑
+B.E. Mechanical Engineering
 ````
 
 My transition from engineering into enterprise software has shaped how I approach technical problems: understand the business process first, then build the simplest reliable system that solves it.
@@ -94,17 +97,12 @@ Audit & Reporting
 
 ### Engineering Highlights
 
-* Designed a multi-role workflow for Customer, Employee, Manager, and Admin users
-* Built REST APIs using Java 21 and Spring Boot
-* Implemented JWT authentication and backend Role-Based Access Control
-* Secured passwords using BCrypt hashing
-* Modeled workflow requests and audit events using PostgreSQL and JPA/Hibernate
-* Built customer, employee, manager, administrator, and reporting interfaces
-* Added frontend and backend application logging
-* Containerized the complete application using Docker
-* Deployed the application to Render with Neon PostgreSQL
-* Configured HTTPS application access and SSL database communication
-* Created production architecture, deployment, testing, and release documentation
+- Designed and built a multi-role enterprise workflow spanning Customer, Employee, Manager, and Administrator experiences
+- Developed secure REST APIs using Java 21, Spring Boot, Spring Security, JWT authentication, BCrypt, and Role-Based Access Control
+- Designed the PostgreSQL data model and workflow lifecycle using JPA/Hibernate with audit and reporting support
+- Built role-specific frontend experiences for application processing, approval workflows, administration, and reporting
+- Implemented production observability with frontend diagnostics, backend request/error logging, and centralized Render logs
+- Containerized and deployed the full application using Docker, Render, and Neon PostgreSQL with production documentation and release management
 
 ### Production Stack
 
@@ -219,9 +217,15 @@ Business Intelligence · Data Analysis · Workflow Automation · Information Sys
 
 # Professional Experience
 
-## Full-Stack Developer Intern — A2 Engineering
+## Summer Atlantic Capital
+
+### Software System Architect (Full Stack Engineering)
 
 Currently working in a U.S.-based engineering environment with responsibilities spanning full-stack development and software systems architecture.
+
+- Contribute to full-stack application development and software systems architecture, translating business requirements into backend services, database designs, and integrated application workflows.
+- Build and integrate solutions using Python, PostgreSQL, Docker, AWS, Redis, and Neo4j, with a focus on scalable data handling, API-driven development, and maintainable system design.
+- Support solution architecture across application, database, and deployment layers, expanding from hands-on development responsibilities into broader system-level design and engineering decisions.
 
 My scope has expanded beyond the initial development work into broader system-level responsibilities, including:
 
