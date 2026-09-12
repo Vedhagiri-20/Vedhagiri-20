@@ -22,7 +22,7 @@ I enjoy building systems that move beyond prototypes into complete, deployed app
 
 ---
 
-# 🚀 Flagship Project
+#  Flagship Project
 
 ## Secure Flow — Enterprise Loan Workflow & Approval Platform
 
